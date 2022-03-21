@@ -1,0 +1,23 @@
+{
+  "name": "language-guesser",
+  "version": "1.0.0",
+  "description": "Guesses the language of whatever phrase put into it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thenextgen1/basic-nodeJs-projects.git"
+  },
+  "author": "Elijah Ohiwerei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thenextgen1/basic-nodeJs-projects/issues"
+  },
+  "homepage": "https://github.com/Thenextgen1/basic-nodeJs-projects#readme",
+  "dependencies": {
+    "franc": "^6.0.0",
+    "langs": "^2.0.0"
+  }
+}
