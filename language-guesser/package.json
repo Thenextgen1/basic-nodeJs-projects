@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Thenextgen1/basic-nodeJs-projects#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "franc": "^6.0.0",
     "langs": "^2.0.0"
-  }
+  },
+  "type": "module"
 }
